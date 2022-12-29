@@ -14,7 +14,4 @@
 
 </div>
 
-### Sistemas Operacionais
 
-<img align="center" alt="C#" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" /><img align="center" alt="C#" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-</div>

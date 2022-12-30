@@ -2,7 +2,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rapha.gamedev)
-[![Instagram](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/A-Divina-Com-dia-GameDev-a5bdd3fc66ed42b281d009c6b640d092)
+
 
 
 ![Rapha Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphagamedev&show_icons=true&theme=dracula)

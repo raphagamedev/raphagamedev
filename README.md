@@ -1,9 +1,9 @@
 ### Olá eu sou Raphael 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rapha.gamedev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-camara-40320518b/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-camara-40320518b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rapha.gamedev)
 
 
 ![Rapha Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphagamedev&show_icons=true&theme=dracula)

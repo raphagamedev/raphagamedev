@@ -7,7 +7,8 @@
 
 
 
-![Rapha Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphagamedev&show_icons=true&theme=dracula)
+![Rapha Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphagamedev&show_icons=true&theme=blue-green)
+
 
 ### Tecnologias do meu dia a dia
 

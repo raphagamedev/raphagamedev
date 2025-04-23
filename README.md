@@ -35,11 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
----
 
 ### ✨ Fun Facts  
 - 🚀 Desenvolvendo meu projeto pessoal inspirado em menus icônicos de jogos antigos.  
